@@ -1,4 +1,4 @@
-# Stock-market-Analysis Project
+# Stock market-Analysis Project
 The objective of my project was to analyze stock market data to identify patterns, trends, and anomalies. This analysis was aimed at enabling informed decisions on whether to buy, sell, or hold stocks.
 Overview of Project:
 The primary objective of this dataset is to provide insights into the stock market performance of the select major companies. Through analysis, we aim to identify patterns, trends, and anomalies in the stock’s behaviour over time. By doing so, we hope to make informed decisions regarding the stock purchases, sales, or holdings, potentially.
